@@ -14,5 +14,10 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=myprojects957&icon=0&color=0)](https://visitcount.itsvg.in)
+📈 Actively improving code quality, contributing to projects, and building real-world applications.
+
+---
+
+⭐ *Motivated fresher focused on continuous learning, collaboration, and building impactful software.*
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
